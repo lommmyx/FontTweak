@@ -11,4 +11,4 @@ Download `FontTweak.dylib` from the [latest release](../../releases/latest). Onc
 Install Theos and the iOS 26.5 SDK, then run `make`. On Linux, use an iOS cross-toolchain with compiler-rt builtins. The project defaults to Theos at `/opt/theos`. Set `THEOS` on the command line if your installation uses another path.
 
 
-frok from [original](https://github.com/Liujingwan/FontTweak) 
+frok from [Liujingwan](https://github.com/Liujingwan/FontTweak) 
